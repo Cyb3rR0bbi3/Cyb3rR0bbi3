@@ -5,7 +5,7 @@
 👩🏻‍🎓 Now studying [CyberSecurity](https://www.howest.be/en/programmes/bachelor/cybersecurity) at the HoWest, Belgium<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![Cyb3rR0bbi3 GitHub stats](https://github-readme-stats.vercel.app/api?username=cyb3rr0bbi3&show_icons=true&theme=synthwave)
+![Cyb3rR0bbi3 GitHub stats](https://github-readme-stats-beta-nine-30.vercel.app/api?username=cyb3rr0bbi3&show_icons=true&theme=synthwave)
 
 <p align="left">
     <a href="https://github.com/Cyb3rR0bbi3?tab=followers">
